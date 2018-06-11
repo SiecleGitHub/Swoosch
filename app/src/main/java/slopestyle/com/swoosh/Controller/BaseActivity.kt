@@ -1,4 +1,4 @@
-package slopestyle.com.swoosh
+package slopestyle.com.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
