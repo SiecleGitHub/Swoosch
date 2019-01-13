@@ -1,11 +1,11 @@
-package slopestyle.com.swoosh.Controller
+package slopestyle.com.swoosh.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_finish.*
-import slopestyle.com.swoosh.Model.Player
+import slopestyle.com.swoosh.model.Player
 import slopestyle.com.swoosh.R
-import slopestyle.com.swoosh.Utilities.EXTRA_PLAYER
+import slopestyle.com.swoosh.utilities.EXTRA_PLAYER
 
 class FinishActivity : AppCompatActivity() {
 

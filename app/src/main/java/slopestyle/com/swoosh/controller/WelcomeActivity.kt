@@ -1,4 +1,4 @@
-package slopestyle.com.swoosh.Controller
+package slopestyle.com.swoosh.controller
 
 import android.content.Intent
 import android.os.Bundle
